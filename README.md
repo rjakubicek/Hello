@@ -1,3 +1,3 @@
 # Hello
 test
-toto jsem pridal navic Rasta
+toto je pridano navic Rasta
